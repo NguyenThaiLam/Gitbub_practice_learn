@@ -1,2 +1,3 @@
 #include <stdio.h>
-int temp4  = 0 ;
+int temp1  = 0 ;
+int temp2  = 0 ;
