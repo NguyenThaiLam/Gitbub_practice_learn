@@ -2,5 +2,5 @@ import os
 import re
 import sys
 
-def lam():
+def revert_lam():
     pass
